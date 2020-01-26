@@ -25,7 +25,7 @@ public class SumOfDigits {
 
 		// Initialize an integer variable by name: sum
 
-		// Use loop to calculate the sum: which loop to use until the number goes less than 10??
+		// Use loop to calculate the sum: which loop to use until the number goes greater than 0??
 
 		// Within loop: get the remainder when done by 10 -> Tip: use mod
 
