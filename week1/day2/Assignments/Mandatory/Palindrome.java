@@ -15,7 +15,7 @@ public class Palindrome {
 
 	 * d) Add the char into rev
 
-	 * e) Compare text and rev, if it is same then print palinDrome 
+	 * e) Compare the original String with the reversed String, if it is same then print palinDrome 
 	 
 	 * Hint: Use .equals or .equalsIgnoreCase when you compare a String 
 
