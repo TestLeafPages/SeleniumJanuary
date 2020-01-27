@@ -49,7 +49,7 @@ public class SumOfDigitsFromString {
 
 	 * b) Get each character and check if it is a number using Character.isDigit()
 
-	 * c) Now covert char to int using Character.isDigit() and add it to sum
+	 * c) Now covert char to int using Character.getNumericValue() and add it to sum
 
 	 * d) Now Print the value
 
