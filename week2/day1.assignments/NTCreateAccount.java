@@ -20,8 +20,7 @@ public class NTCreateAccount {
 		 * 
 		 * 7. Select preferred currency as Indian Rupee using SelectByValue
 		 * 
-		 * 8. Click on the widget of Parent Account and select the first Residing
-		  account
+		 * 8. Enter the Description text as "NRI Account"
 		 * 
 		 * 9. Enter LocalName Field Using Xpath Locator
 		 * 
