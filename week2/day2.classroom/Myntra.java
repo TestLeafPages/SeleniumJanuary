@@ -7,7 +7,7 @@ public class Myntra {
 		/*
 		 * //Pseudo Code
 		 * 
-		 * 1. Launch URL "https://www.flipkart.com/"
+		 * 1. Launch URL "https://www.myntra.com/"
 		 * 
 		 * 2. Maximize the browser
 		 * 
