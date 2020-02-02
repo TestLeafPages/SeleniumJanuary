@@ -19,12 +19,14 @@ public class FindContact {
 		 * 6. Click on Find Contacts
 		 * 
 		 * 7. Click on the Email Field using Xpath Locator
+		 *
+		 * 8. Enter the email using any locator
 		 * 
 		 * 9. Click on Find Contacts using Xpath Locator
 		 * 
 		 * 10. Click on the First Resulting Contact
 		 * 
-		 * 11. Get the Text for Name 
+		 * 11. Get the Text of First Name 
 		 * 
 		 * 12. Click on the Edit Button
 		 * 
