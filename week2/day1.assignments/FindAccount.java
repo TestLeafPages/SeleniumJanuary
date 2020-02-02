@@ -28,10 +28,7 @@ public class FindAccount {
 		 *  
 		 * 11. Get the Text of Description
 		 * 
-		 * 12. Verify whether Team Members are Assigned to this account under
-		  Team Members are Assigned to this account field.
-		 *  
-		 * 13. Get the title of the page and verify it.
+		 * 12. Get the title of the page and verify it.
 		 */
 
 	}
