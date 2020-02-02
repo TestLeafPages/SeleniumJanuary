@@ -6,6 +6,8 @@ public class PractiseXpath {
 
 		/*
 		**No need to write Selenium script - Just find these elements in the DOM using only XPaths
+		
+		Try all the xpaths that you've learnt (basic, text-based, axes..)
 
 		1. Launch the URL
 		
