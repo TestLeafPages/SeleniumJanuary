@@ -22,22 +22,16 @@ public class FindAccount {
 		 *  
 		 * 8. Click on Find Accounts using xpath Locator
 		 * 
-		 * 9. Click on the  Lead
+		 * 9. Click on the edit Button
 		 * 
 		 * 10. Get the Text of Account Name and verify 
 		 *  
 		 * 11. Get the Text of Description
 		 * 
-		 * 12. Click on the widget of New Team Member
-		 *  
-		 * 13. Click on the first Resulting team member Under Name
-		 *  
-		 * 14. Click on the Add button using 
-		 * 
-		 * 15. Verify whether Team Members are Assigned to this account under
+		 * 12. Verify whether Team Members are Assigned to this account under
 		  Team Members are Assigned to this account field.
 		 *  
-		 * 16. Get the title of the page and verify it.
+		 * 13. Get the title of the page and verify it.
 		 */
 
 	}
