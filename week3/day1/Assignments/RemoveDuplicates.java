@@ -2,6 +2,8 @@ package week3.day1.Classroom;
 
 public class RemoveDuplicates {
 
+	// Input: PayPal India
+	// Output: ylIndi
 	public static void main(String[] args) {		
 		
 //		Declare a String as PayPal India
