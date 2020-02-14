@@ -1,0 +1,18 @@
+ClassRoom 1 : Actions Class
+1. Launch URL : "https://jqueryui.com/droppable/"
+2. Click on Droppable
+3. Perform the Required Action given.
+
+ClassRoom 2 : Actions Class
+1. Launch URL : "https://jqueryui.com/selectable/"
+2. Click on Selectable
+3. Select item from item1 to item5 using Required Action method.
+
+
+ClassRoom 3 : Actions Class
+1. Launch URL : "https://jqueryui.com/sortable/"
+2. Click on Sortable
+3. Sort item1 to the place of item6 
+
+
+
