@@ -1,6 +1,9 @@
 package week3.day1.Classroom;
 
-public class RemoveDuplicates {
+// Input: "PayPal India"
+// Output: P,a
+
+public class IdentifyDuplicates {
 
 	public static void main(String[] args) {		
 		
